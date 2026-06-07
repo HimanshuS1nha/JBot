@@ -2,6 +2,12 @@
 
 JBot is an AI-powered chat assistant that helps users get answers, generate ideas, create content, and solve everyday problems through natural, conversational interactions.
 
+## Screenshots
+
+![JBot-1](https://github.com/user-attachments/assets/83ea6a77-b6e9-4d86-b946-da79edb12e4f)
+--
+![JBot-2](https://github.com/user-attachments/assets/fdb71142-b4ff-45c5-aabc-eae84c3dece1)
+
 ## Get started
 
 1. Server
