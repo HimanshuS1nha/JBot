@@ -1,0 +1,15 @@
+spring.application.name=jbot
+server.servlet.context-path=/api
+
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.ai.google.genai.api-key=
+spring.ai.google.genai.chat.model=gemini-2.5-flash
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.format_sql=true
+
+jwt.secret=
